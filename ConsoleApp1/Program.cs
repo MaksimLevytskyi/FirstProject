@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello my dear World!");
+Console.WriteLine("Darling you so bad just acknowledge it");

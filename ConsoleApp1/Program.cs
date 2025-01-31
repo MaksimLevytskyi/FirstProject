@@ -1,2 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("shut the fuck up ");
+class Program
+{
+    static int Main()
+    {
+        Console.WriteLine("Hello, World");
+
+
+        return 0;
+    }
+}

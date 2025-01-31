@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static int Squarenumber(int n)
         {
-
+//You miss something
             return n * n;
         }
     }

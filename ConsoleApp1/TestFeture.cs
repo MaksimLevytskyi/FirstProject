@@ -10,8 +10,14 @@ namespace ConsoleApp1
     {
         static int Squarenumber(int n)
         {
-
-            return n * n;
+            if (n == 0)
+            {
+                return 0;
+            }
+            else
+            {
+                return n * n;
+            }
         }
     }
 }

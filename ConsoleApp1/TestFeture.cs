@@ -8,6 +8,10 @@ namespace ConsoleApp1
 {
     internal class TestFeture
     {
-        //some feature over there
+        static int Squarenumber(int n)
+        {
+
+            return n * n;
+        }
     }
 }
